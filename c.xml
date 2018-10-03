@@ -1,0 +1,810 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+    <channel>
+        <title>NYT &gt; Home Page</title>
+        <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+        <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+        <description/>
+        <language>en-us</language>
+        <copyright>Copyright 2018  The New York Times Company</copyright>
+        <lastBuildDate>Wed, 03 Oct 2018 13:32:25 GMT </lastBuildDate>
+        <image>
+            <title>NYT &gt; Home Page</title>
+            <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+            <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+        </image>
+        <item>
+            <title>11 Takeaways From The Times&#x2019;s Investigation Into Trump&#x2019;s Wealth</title>
+            <link>https://www.nytimes.com/2018/10/02/us/politics/donald-trump-wealth-fred-trump.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/us/politics/donald-trump-wealth-fred-trump.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/02/us/politics/donald-trump-wealth-fred-trump.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/09/02/us/02inheritance-13/02inheritance-13-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>President Trump received today&#x2019;s equivalent of over $400 million from the real estate empire of his father, Fred C. Trump, whose photograph sits behind him in the Oval Office.</media:description>
+            <media:credit>Doug Mills/The New York Times</media:credit>
+            <description>Based on a trove of confidential financial records, the Times report offers the first comprehensive look at the inherited fortune and tax dodges that guaranteed Donald Trump a gilded life.</description>
+            <dc:creator>RUSS BUETTNER, SUSANNE CRAIG and DAVID BARSTOW</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 10:34:39 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Fred C</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tax Evasion</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Frauds and Swindling</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Inheritance and Estate Taxes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Wills and Estates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+        </item>
+        <item>
+            <title>Trump Taunts Christine Blasey Ford at Rally</title>
+            <link>https://www.nytimes.com/2018/10/02/us/politics/trump-me-too.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/us/politics/trump-me-too.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/02/us/politics/trump-me-too.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <description>At a campaign event in Mississippi, the president went further than ever before in directly assailing Dr. Blasey, who has accused Judge Brett M. Kavanaugh of sexual assault.</description>
+            <dc:creator>MAGGIE HABERMAN and PETER BAKER</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 12:30:27 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Supreme Court (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kavanaugh, Brett M</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+        </item>
+        <item>
+            <title>F.B.I. to End Kavanaugh Inquiry as Soon as Wednesday, With Vote Coming This Week</title>
+            <link>https://www.nytimes.com/2018/10/02/us/politics/kavanaugh-fbi-background-check.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/us/politics/kavanaugh-fbi-background-check.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/02/us/politics/kavanaugh-fbi-background-check.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/us/politics/03dc-kavanaugh-1/03dc-kavanaugh-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The F.B.I.&#x2019;s investigation into sexual assault and sexual misconduct allegations against Judge Brett M. Kavanaugh appears to be moving quickly.</media:description>
+            <media:credit>Gabriella Demczuk for The New York Times</media:credit>
+            <description>Senator Mitch McConnell&#x2019;s promise to wrap up Judge Brett M. Kavanaugh&#x2019;s confirmation gave it an air of inevitability, but five undecided senators are refusing to tip their hands.</description>
+            <dc:creator>SHERYL GAY STOLBERG and MICHAEL D. SHEAR</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 03:31:35 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kavanaugh, Brett M</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Christine Blasey</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Supreme Court (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate Committee on the Judiciary</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge, Mark Gauvreau</category>
+        </item>
+        <item>
+            <title>Kavanaugh&#x2019;s 1983 Letter Offers Inside Look at High School Clique</title>
+            <link>https://www.nytimes.com/2018/10/02/us/brett-kavanaugh-georgetown-prep.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/us/brett-kavanaugh-georgetown-prep.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/02/us/brett-kavanaugh-georgetown-prep.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/business/03PREP/03PREP-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Judge Brett M. Kavanaugh testifying last week before the Senate Judiciary Committee.</media:description>
+            <media:credit>Erin Schaff/The New York Times</media:credit>
+            <description>Brett Kavanaugh was a member of a hard-partying group of football players, and his behavior was more raucous than he has publicly described.</description>
+            <dc:creator>KATE KELLY and DAVID ENRICH</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 02:04:21 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kavanaugh, Brett M</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Georgetown Preparatory School</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Supreme Court (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+        </item>
+        <item>
+            <title>Where Indonesia Quake Turned Ground to Jelly, People and Homes Are Unaccounted For</title>
+            <link>https://www.nytimes.com/2018/10/03/world/asia/indonesia-earthquake-tsunami-liquefaction.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/world/asia/indonesia-earthquake-tsunami-liquefaction.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/03/world/asia/indonesia-earthquake-tsunami-liquefaction.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/04/world/04tsunami1/merlin_144710211_110e2964-7634-4767-9e9f-638b9f8b3128-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>A destroyed neighborhood in Palu, Indonesia. Hundreds of buildings were destroyed by liquefaction, which causes soil to lose its ability to support structures.</media:description>
+            <media:credit>Adam Dean for The New York Times</media:credit>
+            <description>In one part of Palu, hundreds of buildings flowed sideways before being buried. Only now has heavy equipment been brought in to the search for the missing.</description>
+            <dc:creator>FIRA ABDURACHMAN, ADAM DEAN and RICHARD C. PADDOCK</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 13:16:38 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tidal Waves and Tsunamis</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Liquefaction</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Palu (Indonesia)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sulawesi (Indonesia)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Buildings (Structures)</category>
+        </item>
+        <item>
+            <title>Facebook Hack Puts Thousands of Other Sites at Risk</title>
+            <link>https://www.nytimes.com/2018/10/02/technology/facebook-hack-other-sites.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/technology/facebook-hack-other-sites.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/02/technology/facebook-hack-other-sites.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/business/03FACEBOOK01/03FACEBOOK01-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Ten years ago, Facebook&#x2019;s Mark Zuckerberg introduced a tool that connects other sites and apps to Facebook passwords. That convenience came with a risk.</media:description>
+            <media:credit>Marcio Jose Sanchez/Associated Press</media:credit>
+            <description>Ten years ago, the social network introduced a password system that connected it to a broad swath of the internet. Now we are seeing the downside.</description>
+            <dc:creator>MIKE ISAAC and KATE CONGER</dc:creator>
+            <pubDate>Tue, 02 Oct 2018 23:36:31 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Match Group Inc.</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Yahoo! Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+        </item>
+        <item>
+            <title>State of the Art: Why You Shouldn&#x2019;t Use Facebook to Log In to Other Sites</title>
+            <link>https://www.nytimes.com/2018/10/02/technology/personaltech/facebook-log-in-hack.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/technology/personaltech/facebook-log-in-hack.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/02/technology/personaltech/facebook-log-in-hack.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/business/03FBLOGIN01/03FBLOGIN01-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Facebook said Tuesday that it had &#x201C;no evidence&#x201D; that attackers got into other sites through a hack of its login feature.</media:description>
+            <media:credit>Reuters</media:credit>
+            <description>Facebook offered a convenient and secure way to sign up for online services. A major hack shows it failed at its one job.</description>
+            <dc:creator>FARHAD MANJOO</dc:creator>
+            <pubDate>Tue, 02 Oct 2018 23:11:23 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberattacks and Hackers</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">1Password (Mobile App)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">LastPass.com</category>
+        </item>
+        <item>
+            <title>&#x2018;Better to Drown&#x2019;: A Greek Refugee Camp&#x2019;s Epidemic of Misery</title>
+            <link>https://www.nytimes.com/2018/10/02/world/europe/greece-lesbos-moria-refugees.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/world/europe/greece-lesbos-moria-refugees.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/02/world/europe/greece-lesbos-moria-refugees.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/world/03moria1/xxmoria1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Refugees from Afghanistan at a makeshift camp outside Moria, in Lesbos, Greece. Moria has become the most visible symbol of the hard-line stance European countries have taken on migrants since 2016.</media:description>
+            <media:credit>Mauricio Lima for The New York Times</media:credit>
+            <description>Trauma, psychosis and suicide attempts have become common occurrences at Moria, a Greek island camp, where aid groups warn of a mental health crisis.</description>
+            <dc:creator>PATRICK KINGSLEY</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 10:56:06 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Asylum, Right of</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mental Health and Disorders</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Post-Traumatic Stress Disorder</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lesbos (Greece)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moria</category>
+        </item>
+        <item>
+            <title>Homeland Security&#x2019;s Computers Couldn&#x2019;t Track Separated Families, Report Finds</title>
+            <link>https://www.nytimes.com/2018/10/02/us/politics/immigration-family-separation-dhs.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/us/politics/immigration-family-separation-dhs.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/02/us/politics/immigration-family-separation-dhs.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/us/politics/03dc-DHS-print/03dc-DHS-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Migrant children at a tent encampment in Tornillo, Tex., in June. Some parents didn&#x2019;t understand that they would be separated from their children at the border, a report found.</media:description>
+            <media:credit>Mike Blake/Reuters</media:credit>
+            <description>The U.S. agency was so unprepared for the Trump administration&#x2019;s zero-tolerance immigration policy that it was unable to keep track of those separated at the border.</description>
+            <dc:creator>RON NIXON</dc:creator>
+            <pubDate>Tue, 02 Oct 2018 21:01:13 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration Detention</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Homeland Security Department</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Homeland Security Office of Inspector General</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Border Patrol (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Customs and Border Protection (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Health and Human Services Department</category>
+        </item>
+        <item>
+            <title>Fred Trump, M.L.B., Lady Gaga: Your Wednesday Briefing</title>
+            <link>https://www.nytimes.com/2018/10/03/briefing/fred-trump-mlb-lady-gaga.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/briefing/fred-trump-mlb-lady-gaga.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/03/briefing/fred-trump-mlb-lady-gaga.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/world/03us-ambriefing-trumpsub/03us-ambriefing-trumpsub-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Donald Trump and his father, Fred Trump, in the 1980s. The son benefited from his father&#x2019;s vast real estate empire.</media:description>
+            <media:credit>Bernard Gotfryd/Getty Images</media:credit>
+            <description>Here&#x2019;s what you need to know to start your day.</description>
+            <dc:creator>JILLIAN RAYFIELD</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 10:42:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>New York Today: New York Today: Catcalling on Sidewalks</title>
+            <link>https://www.nytimes.com/2018/10/03/nyregion/new-york-today-catcalling.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/nyregion/new-york-today-catcalling.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/03/nyregion/new-york-today-catcalling.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/nyregion/03nytoday01/03nytoday01-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>&#x201C;Boys will be boys.&#x201D;</media:description>
+            <media:credit>Sophie Sandberg</media:credit>
+            <description>Wednesday: A spike in reports of street harassment around the city, and today&#x2019;s test presidential alert.</description>
+            <dc:creator>ALEXANDRA S. LEVINE</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 10:00:04 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+        </item>
+        <item>
+            <title>California Today: California Today: What is Wrong With the Salesforce Transit Center</title>
+            <link>https://www.nytimes.com/2018/10/03/us/california-today-salesforce-transit-center.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/us/california-today-salesforce-transit-center.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/03/us/california-today-salesforce-transit-center.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/02/us/02caltoday/02caltoday-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The Salesforce Transit Center in February, six months before it opened.</media:description>
+            <media:credit>Jim Wilson/The New York Times</media:credit>
+            <description>Wednesday: The terminal&#x2019;s cracked beams, Californians are accused of inciting violence in Charlottesville, and how Joe Ide&#x2019;s L.A. youth shapes his fiction.</description>
+            <dc:creator>THOMAS FULLER and INYOUNG KANG</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 12:53:59 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">California Today</category>
+        </item>
+        <item>
+            <title/>
+            <link>https://www.nytimes.com//?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com//</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com//?partner=rss&amp;emc=rss"/>
+            <description/>
+            <dc:creator/>
+            <pubDate/>
+        </item>
+        <item>
+            <title>Donald Trump and the Self-Made Sham</title>
+            <link>https://www.nytimes.com/2018/10/02/opinion/donald-trump-tax-fraud-fred.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/opinion/donald-trump-tax-fraud-fred.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/02/opinion/donald-trump-tax-fraud-fred.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/opinion/03trumpWeb/03trumpWeb-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Tom Brenner for The New York Times</media:credit>
+            <description>Now let&#x2019;s see your tax returns, Mr. President.</description>
+            <dc:creator>THE EDITORIAL BOARD</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 02:09:16 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Wills and Estates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Times</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Fred C</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+        </item>
+        <item>
+            <title> A Bad Move That Could End Up Exposing Kids to Chemicals</title>
+            <link>https://www.nytimes.com/2018/10/02/opinion/chemicals-epa-children-health.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/opinion/chemicals-epa-children-health.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/02/opinion/chemicals-epa-children-health.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/02/opinion/sunday/02landrigan/02landrigan-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Marta Monteiro</media:credit>
+            <description>Without explaining why, the E.P.A. has sidelined its top children&#x2019;s health advocate.</description>
+            <dc:creator>PHILIP J. LANDRIGAN and LYNN R. GOLDMAN</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 13:23:08 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemicals</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pesticides</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Learning Disabilities</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Environmental Protection Agency</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Office of Children's Health Protection (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Etzel, Ruth A</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+        </item>
+        <item>
+            <title>The Meritocracy Against Itself</title>
+            <link>https://www.nytimes.com/2018/10/03/opinion/kavanaugh-ivy-league-meritocracy.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/opinion/kavanaugh-ivy-league-meritocracy.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/03/opinion/kavanaugh-ivy-league-meritocracy.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/opinion/03douthat2Web/03douthat2Web-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Yale Law School students protesting on Capitol Hill last week.</media:description>
+            <media:credit>Erin Schaff for The New York Times</media:credit>
+            <description>How Ivy League resentments took over the Kavanaugh debate.</description>
+            <dc:creator>ROSS DOUTHAT</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 09:45:04 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Secondary)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Harvard University</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Ivy League</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Princeton University</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Yale University</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kavanaugh, Brett M</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgetown (Washington, DC)</category>
+        </item>
+        <item>
+            <title>Russian Meddling Is a Symptom, Not the Disease</title>
+            <link>https://www.nytimes.com/2018/10/03/opinion/midterms-facebook-foreign-meddling.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/opinion/midterms-facebook-foreign-meddling.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/03/opinion/midterms-facebook-foreign-meddling.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/opinion/03tufekci/03tufekci-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Facebook pages created by a Russian troll factory, the Internet Research Agency, on display at a House Intelligence Committee hearing last November.</media:description>
+            <media:credit>Shawn Thew/European Pressphoto Agency</media:credit>
+            <description>More worrisome than foreign interference in our elections is how our own tech and media companies feed and profit from our deepening domestic political polarization.</description>
+            <dc:creator>ZEYNEP TUFEKCI</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 12:10:49 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+        </item>
+        <item>
+            <title>The American Civil War, Part II</title>
+            <link>https://www.nytimes.com/2018/10/02/opinion/the-american-civil-war-part-ii.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/opinion/the-american-civil-war-part-ii.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/02/opinion/the-american-civil-war-part-ii.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/02/opinion/02friedmanWeb/02friedmanWeb-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Protesters in a hallway tried to disrupt a Senate Judiciary Committee hearing last week.</media:description>
+            <media:credit>Damon Winter/The New York Times</media:credit>
+            <description>The nation is deeply divided, with each side seeing the other as &#x201C;the enemy.&#x201D;</description>
+            <dc:creator>THOMAS L. FRIEDMAN</dc:creator>
+            <pubDate>Tue, 02 Oct 2018 22:38:42 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gingrich, Newt</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kavanaugh, Brett M</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flake, Jeffrey L</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ornstein, Norman J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+        </item>
+        <item>
+            <title>The Right-Wing Rot at the Heart of the German State</title>
+            <link>https://www.nytimes.com/2018/10/03/opinion/chemnitz-maassen-afd-far-right.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/opinion/chemnitz-maassen-afd-far-right.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/03/opinion/chemnitz-maassen-afd-far-right.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/opinion/03meaneyschafer2/03meaneyschafer2-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Police officers with a protester seeking to block coal mining in the Hambach Forest near Cologne, Germany.</media:description>
+            <media:credit>Jana Bauch/Agence France-Presse &#x2014; Getty Images</media:credit>
+            <description>Recent events make clear that extremists have allies deep inside the government.</description>
+            <dc:creator>THOMAS MEANEY and SASKIA SCH&#xC4;FER</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 09:50:03 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration and Emigration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Holocaust and the Nazi Era</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Demonstrations, Protests and Riots</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alternative for Germany</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Christian Social Union (Germany)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Seehofer, Horst</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chemnitz (Germany)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+        </item>
+        <item>
+            <title>Am I a Lawn Mower Parent?</title>
+            <link>https://www.nytimes.com/2018/10/03/opinion/lawn-mower-parenting.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/opinion/lawn-mower-parenting.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/03/opinion/lawn-mower-parenting.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/opinion/sunday/03boylan/03boylan-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Jen Wang</media:credit>
+            <description>We need to let kids learn to be tough. But we also need to show them love.</description>
+            <dc:creator>JENNIFER FINNEY BOYLAN</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 10:00:04 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Education (K-12)</category>
+        </item>
+        <item>
+            <title>Sorry, President Trump, Decency Beats Dollars</title>
+            <link>https://www.nytimes.com/2018/10/02/opinion/trumps-economy-job-approval.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/opinion/trumps-economy-job-approval.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/02/opinion/trumps-economy-job-approval.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/02/opinion/02bruniSub/02bruniSub-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>A protester last week on Capitol Hill.</media:description>
+            <media:credit>Drew Angerer/Getty Images</media:credit>
+            <description>A blue wave in the midterms would be a validation of the best American values.</description>
+            <dc:creator>FRANK BRUNI</dc:creator>
+            <pubDate>Tue, 02 Oct 2018 22:50:35 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Midterm Elections (2018)</category>
+        </item>
+        <item>
+            <title>The Stone: Misogyny Rules: A War of Two Worlds</title>
+            <link>https://www.nytimes.com/2018/10/03/opinion/kavanaugh-misogyny-epistemic-worlds.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/opinion/kavanaugh-misogyny-epistemic-worlds.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/03/opinion/kavanaugh-misogyny-epistemic-worlds.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/opinion/03Stone/03Stone-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>A majority of the senators were male at the executive session last week  on moving Brett Kavanaugh's nomination out of the Judiciary Committee.</media:description>
+            <media:credit>Erin Schaff for The New York Times</media:credit>
+            <description>The battle over the Kavanaugh hearings is not about truth. It is about meaning.</description>
+            <dc:creator>BONNIE MANN</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 10:00:03 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kavanaugh, Brett M</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Christine Blasey</category>
+        </item>
+        <item>
+            <title>Amazon&#x2019;s Surrender Is Inspiring </title>
+            <link>https://www.nytimes.com/2018/10/03/opinion/amazon-minimum-wage-bernie-sanders.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/opinion/amazon-minimum-wage-bernie-sanders.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/03/opinion/amazon-minimum-wage-bernie-sanders.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/opinion/03leonhardt-newsletter/03leonhardt-newsletter-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>A worker prepares a package at an Amazon fulfillment center in Baltimore. Amazon announced Tuesday that it would raise the minimum wage to $15 an hour for its United States employees.</media:description>
+            <media:credit>Patrick Semansky/Associated Press</media:credit>
+            <description>How the country might return to a time when corporate executives rejected pure greed.</description>
+            <dc:creator>DAVID LEONHARDT</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 13:05:44 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Minimum Wage</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Compensation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Corporations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Elizabeth</category>
+        </item>
+        <item>
+            <title>Loose Ends: The United Texts of America</title>
+            <link>https://www.nytimes.com/2018/10/03/opinion/greathead-wayne-texts-trump.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/opinion/greathead-wayne-texts-trump.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/03/opinion/greathead-wayne-texts-trump.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/opinion/03greathead/03greathead-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Illustration by Jeffrey Henson Scales, photographs by Chad Batka for The New York Times and d3sign/Moment, via Getty Images</media:credit>
+            <description>We&#x2019;ll be hearing from the president. Here&#x2019;s how that might go.</description>
+            <dc:creator>KATE GREATHEAD and TEDDY WAYNE</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 10:00:04 GMT</pubDate>
+        </item>
+        <item>
+            <title>Welcome to Right Field. Beware the Yankee Fans.</title>
+            <link>https://www.nytimes.com/2018/10/03/sports/baseball/yankee-stadium-fans.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/sports/baseball/yankee-stadium-fans.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/03/sports/baseball/yankee-stadium-fans.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/04/sports/04rightfieldweb-2/04rightfieldweb-2-moth-v2.jpg" medium="image" height="151" width="151"/>
+            <media:description>As Mookie Betts of the Red Sox and fans watched a home run sail into the right-field bleachers in August 2017, one spectator took the opportunity to chat with Betts.</media:description>
+            <media:credit>Karsten Moran for The New York Times</media:credit>
+            <description>Visiting right fielders often get an earful from fans at Yankee Stadium. In October, it only gets worse.</description>
+            <dc:creator>BILLY WITZ</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 09:00:11 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Yankees</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Oakland Athletics</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Yankee Stadium (NYC)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bautista, Jose</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Springer, George (1989- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Adam</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Canha, Mark</category>
+        </item>
+        <item>
+            <title>Critic&#x2019;s Notebook: What a Book Critic Finds in Mark Judge&#x2019;s &#x2018;Wasted&#x2019; 21 Years Later</title>
+            <link>https://www.nytimes.com/2018/10/02/books/wasted-mark-judge-memoir.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/books/wasted-mark-judge-memoir.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/02/books/wasted-mark-judge-memoir.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/books/03bookjudge-print/02bookjudge-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit/>
+            <description>Mark Judge&#x2019;s 1997 memoir, &#x201C;Wasted,&#x201D; captures both the milieu in which the author and Brett Kavanaugh were raised, and prevailing ideas of masculinity in the 1980s.</description>
+            <dc:creator>DWIGHT GARNER</dc:creator>
+            <pubDate>Tue, 02 Oct 2018 19:47:19 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge, Mark Gauvreau</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kavanaugh, Brett M</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Wasted: Tales of a GenX Drunk (Book)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Alcohol Abuse</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Supreme Court (US)</category>
+        </item>
+        <item>
+            <title>Nobel Prize in Chemistry Is Awarded to 3 Scientists for Using Evolution in Design of Molecules</title>
+            <link>https://www.nytimes.com/2018/10/03/science/chemistry-nobel-prize.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/science/chemistry-nobel-prize.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/03/science/chemistry-nobel-prize.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/04/science/04nobel-sub/04nobel-sub-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The 2018 Nobel Prize in Chemistry was awarded to Frances H. Arnold, George P. Smith and Gregory P. Winter for their work in evolutionary science.</media:description>
+            <media:credit>Pool photo by Jonas Ekstromer</media:credit>
+            <description>Frances H. Arnold of the U.S. received half the prize, while her compatriot George P. Smith and Gregory P. Winter of Britain shared the other half.</description>
+            <dc:creator>THE NEW YORK TIMES</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 12:09:07 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemistry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Swedish Academy</category>
+        </item>
+        <item>
+            <title>International Court Orders U.S. to Ease Some Iran Sanctions</title>
+            <link>https://www.nytimes.com/2018/10/03/world/middleeast/us-iran-sanctions-international-court.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/world/middleeast/us-iran-sanctions-international-court.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/03/world/middleeast/us-iran-sanctions-international-court.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/04/world/04iran/04iran-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Iran is trying to nullify the new round of sanctions, which have inflicted pain on its troubled economy.</media:description>
+            <media:credit>Arash Khamooshi for The New York Times</media:credit>
+            <description>The International Court of Justice said in a nonbinding ruling that Washington should lessen restrictions that affect humanitarian aid and civilian aviation safety.</description>
+            <dc:creator>ALAN COWELL</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 12:06:08 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Court of Justice (UN)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+        </item>
+        <item>
+            <title>Iraq Names New President and Prime Minister, Ending Deadlock</title>
+            <link>https://www.nytimes.com/reuters/2018/10/02/world/middleeast/iraq-president-prime-minister.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/reuters/2018/10/02/world/middleeast/iraq-president-prime-minister.html</guid>
+            <media:content url="https://static01.nyt.com/images/2018/11/02/world/02iraq-1/02iraq-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Barham Salih, right, the newly elected president of Iraq, and Adel Abdul Mahdi, left, the newly named prime minister, in Baghdad on Tuesday.</media:description>
+            <media:credit>Karim Kadim/Associated Press</media:credit>
+            <description>The Iraqi Parliament elected as president the Kurdish politician Barham Salih, who immediately named Adel Abdul Mahdi, a Shiite, prime minister-designate, ending months of deadlock.</description>
+            <dc:creator>REUTERS</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 03:35:44 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Roche Holding AG|RHHBY|Other OTC</category>
+        </item>
+        <item>
+            <title>Chicago Police Officer Defends His Shooting of Laquan McDonald</title>
+            <link>https://www.nytimes.com/2018/10/02/us/jason-van-dyke-chicago-laquan.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/us/jason-van-dyke-chicago-laquan.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/02/us/jason-van-dyke-chicago-laquan.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/us/03vandyke-alt/03vandyke-alt-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Jason Van Dyke, a Chicago police officer, testified during his murder trial for the shooting death of Laquan McDonald, 17.</media:description>
+            <media:credit>Pool photo by Antonio Perez</media:credit>
+            <description>Officer Jason Van Dyke, on trial for first-degree murder, took the stand and said the teenager waved a knife at him. A police video did not show that.</description>
+            <dc:creator>MITCH SMITH</dc:creator>
+            <pubDate>Tue, 02 Oct 2018 22:53:47 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Van Dyke, Jason</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McDonald, Laquan (d 2014)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Police Department (Chicago, Ill)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walsh, Joseph (Chicago, Ill, Police Officer)</category>
+        </item>
+        <item>
+            <title>&#x2018;Take Out&#x2019; Russian Missiles? U.S. Envoy&#x2019;s Remark Spurs Anger, and Pullback</title>
+            <link>https://www.nytimes.com/2018/10/02/world/europe/russia-missiles-nato-hutchison.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/world/europe/russia-missiles-nato-hutchison.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/02/world/europe/russia-missiles-nato-hutchison.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/world/03dc-nato/03dc-nato-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Kay Bailey Hutchison, the American ambassador to NATO, said she had not meant to suggest an American pre-emptive strike against Russian missiles.</media:description>
+            <media:credit>Francois Lenoir/Reuters</media:credit>
+            <description>The American ambassador to NATO used vague language that sounded like an American threat to strike Russian missiles preemptively. She later clarified her meaning.</description>
+            <dc:creator>DAVID E. SANGER</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 01:39:59 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">North Atlantic Treaty Organization</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Arms Control and Limitation and Disarmament</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hutchison, Kay Bailey</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+        </item>
+        <item>
+            <title>Missing in the G.O.P.: Black and Hispanic Nominees for Governor</title>
+            <link>https://www.nytimes.com/2018/10/03/us/politics/republican-governors-midterms.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/us/politics/republican-governors-midterms.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/03/us/politics/republican-governors-midterms.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/09/22/us/politics/22gop-govs2/22gop-govs2-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Nikki Haley and Bobby Jindal, both Indian-Americans and former Republican governors, were once among several minority politicians in the G.O.P. who led states.</media:description>
+            <media:credit>Sean Rayford/Getty Images</media:credit>
+            <description>There are 36 governor races this year. In about 30 of them, the Republican nominees are white men.</description>
+            <dc:creator>ASTEAD W. HERNDON</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 12:41:49 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2018)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Elections, Governors</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party</category>
+        </item>
+        <item>
+            <title>Marks &amp; Spencer Is Struggling. Can Knickers, Candy and Colin the Caterpillar Cakes Save It?</title>
+            <link>https://www.nytimes.com/2018/10/02/business/marks-spencer-faded-glory.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/business/marks-spencer-faded-glory.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/02/business/marks-spencer-faded-glory.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/business/03marks-print-dress-1/00marks-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The Marks &amp; Spencer store in Stockton-on-Tees, England, was one of oldest branches of the British retailer. It closed in August.</media:description>
+            <media:credit>Benjamin Quinton for The New York Times</media:credit>
+            <description>The British icon has played a crucial role in the daily lives of millions for more than 100 years, but financial problems and store closings have made its future uncertain.</description>
+            <dc:creator>ELIZABETH PATON</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 09:39:01 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Fashion and Apparel</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Supermarkets and Grocery Stores</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">E-Commerce</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Marks &amp; Spencer PLC</category>
+        </item>
+        <item>
+            <title>THIS IS A TEST: Cellphones Across the U.S. Will Get a &#x2018;Presidential Alert&#x2019;</title>
+            <link>https://www.nytimes.com/2018/10/03/us/presidential-alert-trump.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/us/presidential-alert-trump.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/03/us/presidential-alert-trump.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/04/us/04xp-alert/04xp-alert-moth.png" medium="image" height="151" width="151"/>
+            <media:description>Cellphones across the United States &#x2014; and some other wireless devices, like the Apple Watch &#x2014; will get the debut test message from the Wireless Emergency Alert System on Wednesday. There is no way to opt out.</media:description>
+            <media:credit>FEMA</media:credit>
+            <description>The alert, at 2:18 p.m. Wednesday, will be the first nationwide test of a wireless emergency alert system, designed to warn of a major threat, like a terror attack or natural disaster.</description>
+            <dc:creator>KAREN ZRAICK</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 12:50:53 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Emergency Management Agency</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Cellular Telephones</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+        </item>
+        <item>
+            <title>Travel Tips: Should You Tip Your Uber Driver? If So, How Much?</title>
+            <link>https://www.nytimes.com/2018/10/02/travel/should-you-tip-your-uber-driver-if-so-how-much.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/travel/should-you-tip-your-uber-driver-if-so-how-much.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/02/travel/should-you-tip-your-uber-driver-if-so-how-much.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/07/travel/07TIPS/merlin_144669003_0505e5aa-6ab4-426b-b2de-4e6cce53cf2b-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Lars Leetaru</media:credit>
+            <description>Uber added tipping to its app just over a year ago, and other rideshare services have allowed riders to tip their drivers for longer than that. But do drivers expect you to tip? Do they rely on them?</description>
+            <dc:creator>KRISTIN WONG</dc:creator>
+            <pubDate>Tue, 02 Oct 2018 15:26:03 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Tips and Tipping</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Customs, Etiquette and Manners</category>
+        </item>
+        <item>
+            <title>5 Cheap(ish) Things to Help You Start Packing Your Lunch</title>
+            <link>https://www.nytimes.com/2018/09/30/smarter-living/5-cheap-ish-things-to-help-you-start-packing-your-lunch.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/09/30/smarter-living/5-cheap-ish-things-to-help-you-start-packing-your-lunch.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/09/30/smarter-living/5-cheap-ish-things-to-help-you-start-packing-your-lunch.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/02/smarter-living/01sl-newsletter/merlin_29913289_89d66175-0417-4269-a504-267b5c570427-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>A lunchbox with muffins and an apple.</media:description>
+            <media:credit>Andrew Scrivani for The New York Times</media:credit>
+            <description>Goodbye, #saddesklunch.</description>
+            <dc:creator>MARISA MCCLELLAN</dc:creator>
+            <pubDate>Mon, 01 Oct 2018 00:44:58 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Tableware</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Lunch Boxes and Bags</category>
+        </item>
+        <item>
+            <title>8 Questions About Social Security Answered as Election Day Nears</title>
+            <link>https://www.nytimes.com/2018/09/28/your-money/8-questions-about-social-security-answered-as-election-day-nears.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/09/28/your-money/8-questions-about-social-security-answered-as-election-day-nears.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/09/28/your-money/8-questions-about-social-security-answered-as-election-day-nears.html?partner=rss&amp;emc=rss"/>
+            <description>Every two years, voters &#x2014; whether they already count on the program, expect to or question paying into it &#x2014; try to make sense of competing claims about it. It&#x2019;s that time again.</description>
+            <dc:creator>TARA SIEGEL BERNARD and KARL RUSSELL</dc:creator>
+            <pubDate>Fri, 28 Sep 2018 21:24:11 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Security (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2018)</category>
+        </item>
+        <item>
+            <title>Everyone Should Have a Postpartum Doula</title>
+            <link>https://www.nytimes.com/2018/10/02/style/postpartum-doula.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/style/postpartum-doula.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/02/style/postpartum-doula.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/04/fashion/04postpartum1/04postpartum1-moth-v4.jpg" medium="image" height="151" width="151"/>
+            <media:description>Meema Spadola, right, a postpartum doula in New York, helps a pair of new parents in Brooklyn bathe their newborn.</media:description>
+            <media:credit>Andre D. Wagner for The New York Times</media:credit>
+            <description>Because when a baby comes, friends and families don&#x2019;t always know how to help.</description>
+            <dc:creator>ZOE GREENBERG</dc:creator>
+            <pubDate>Tue, 02 Oct 2018 16:50:41 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Midwives and Doulas</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pregnancy and Childbirth</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Breastfeeding</category>
+        </item>
+        <item>
+            <title>Fan Bingbing, China&#x2019;s Most Famous Actress, Faces Huge Fines in Tax Evasion</title>
+            <link>https://www.nytimes.com/2018/10/02/world/asia/fan-bingbing-tax-evasion-china.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/world/asia/fan-bingbing-tax-evasion-china.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/02/world/asia/fan-bingbing-tax-evasion-china.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/04/world/04china-fan-sub/04china-fan-sub-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Fan Bingbing at the Cannes Film Festival in France in May.</media:description>
+            <media:credit>Loic Venance/Agence France-Presse &#x2014; Getty Images</media:credit>
+            <description>Ms. Fan, who has disappeared from public view for months, vastly underreported her income, the Chinese state news media said.</description>
+            <dc:creator>STEVEN LEE MYERS</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 10:53:59 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Evasion</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Xinhua</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fan Bingbing</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Willis, Bruce</category>
+        </item>
+        <item>
+            <title>When It Comes to Dinner, Less Is More </title>
+            <link>https://www.nytimes.com/2018/10/01/dining/chicken-potatoes-recipe.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/01/dining/chicken-potatoes-recipe.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/10/01/dining/chicken-potatoes-recipe.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/dining/03roman3/03roman3-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The best thing to do with a whole roast chicken? Carve it and pair it with some vinegared potatoes to catch all those juices and drippings.</media:description>
+            <media:credit>Michael Graydon &amp; Nikole Herriott for The New York Times. Prop Stylist: Kalen Kaminski.</media:credit>
+            <description>You don&#x2019;t need everything at the market to make a meal interesting. Alison Roman lays out her supper strategy.</description>
+            <dc:creator>ALISON ROMAN</dc:creator>
+            <pubDate>Mon, 01 Oct 2018 15:13:00 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Chickens</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Potatoes</category>
+        </item>
+        <item>
+            <title>Best of Late Night: Stephen Colbert Calls Trump &#x2018;an Extraordinarily Wealthy Toddler&#x2019;</title>
+            <link>https://www.nytimes.com/2018/10/03/arts/television/stephen-colbert-trump-tax-dodge.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/arts/television/stephen-colbert-trump-tax-dodge.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/03/arts/television/stephen-colbert-trump-tax-dodge.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/arts/03latenight1/03latenight1-moth-v2.png" medium="image" height="151" width="151"/>
+            <media:description>Stephen Colbert said: &#x201C;So, let me get this straight: At one point, Donald Trump was an extraordinarily wealthy toddler. And today? He is still that.&#x201D;</media:description>
+            <media:credit>CBS</media:credit>
+            <description>Mr. Colbert referred to a New York Times report showing that President Trump received large cash gifts as a toddler. Little has changed, Mr. Colbert said.</description>
+            <dc:creator>GIOVANNI RUSSONELLO</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 09:13:08 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colbert, Stephen</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Corden, James (1978- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kimmel, Jimmy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O'Brien, Conan</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Eric F (1984- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Fred C</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Show with Stephen Colbert (TV Program)</category>
+        </item>
+        <item>
+            <title>David Hockney Wouldn&#x2019;t Paint the Queen. But He Made Her a Stained-Glass Window.</title>
+            <link>https://www.nytimes.com/2018/10/02/arts/design/david-hockney-stained-glass-westminster-abbey.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/arts/design/david-hockney-stained-glass-westminster-abbey.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/02/arts/design/david-hockney-stained-glass-westminster-abbey.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/03/arts/03hockney-1/03hockney-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>David Hockney in his London living room in September. On his right is a facsimile of the of a stained- glass window he designed, which was formally dedicated at Westminster Abbey on Tuesday.</media:description>
+            <media:credit>Suzanne Plunkett for The New York Times</media:credit>
+            <description>The British painter says he is not a churchgoer, but on Tuesday a window that he designed was formally dedicated in Westminster Abbey.</description>
+            <dc:creator>FARAH NAYERI</dc:creator>
+            <pubDate>Tue, 02 Oct 2018 12:12:25 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hockney, David</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Stained Glass</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Westminster Abbey (London)</category>
+        </item>
+        <item>
+            <title>In Australia, Cervical Cancer Could Soon Be Eliminated</title>
+            <link>https://www.nytimes.com/2018/10/03/world/australia/cervical-cancer-hpv-vaccine.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/03/world/australia/cervical-cancer-hpv-vaccine.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/03/world/australia/cervical-cancer-hpv-vaccine.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/10/04/world/04oz-cancer-1/04oz-cancer-1-moth-v2.jpg" medium="image" height="151" width="151"/>
+            <media:description>Professor Ian Frazer, a co-creator of the HPV vaccine, Gardasil, said he hoped other countries would follow Australia&#x2019;s lead.</media:description>
+            <media:credit>David Maurice Smith for The New York Times</media:credit>
+            <description>The government started a program to distribute the HPV vaccine for free to girls more than a decade ago.</description>
+            <dc:creator>LIVIA ALBECK-RIPKA</dc:creator>
+            <pubDate>Wed, 03 Oct 2018 09:05:10 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Cervical Cancer</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Papillomavirus (HPV)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+        </item>
+        <item>
+            <title>Strategies: The New iPhones Look Fine. But My Old One Is Better Than Ever.</title>
+            <link>https://www.nytimes.com/2018/09/28/business/apple-old-iphone-operating-system.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/09/28/business/apple-old-iphone-operating-system.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/09/28/business/apple-old-iphone-operating-system.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/09/30/business/30STRA-illo/30STRA-illo-moth-v2.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Minh Uong/The New York Times</media:credit>
+            <description>With a fresh battery and operating system, an aging iPhone 6 seems faster than ever. Why would Apple take steps to discourage a new purchase?</description>
+            <dc:creator>JEFF SOMMER</dc:creator>
+            <pubDate>Fri, 28 Sep 2018 20:41:06 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">iPhone</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+        </item>
+        <item>
+            <title>Trilobites: The Marvelous Filters in the Manta Ray&#x2019;s Mouth</title>
+            <link>https://www.nytimes.com/2018/09/26/science/manta-ray-filters.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/09/26/science/manta-ray-filters.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/09/26/science/manta-ray-filters.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/09/27/science/27TB-MANTARAY1/27TB-MANTARAY1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Manta rays' filtration system causes particles to glide over its straining system, rather than going through, preventing clogging.</media:description>
+            <media:credit>Steve Kajiura</media:credit>
+            <description>The car-sized, kite-shaped fishes don&#x2019;t have to clear their throats because of their unique method of filtration that could be applied to preventing plastic pollution in the seas.</description>
+            <dc:creator>VERONIQUE GREENWOOD</dc:creator>
+            <pubDate>Wed, 26 Sep 2018 18:00:06 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Stingrays</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Filters</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Throat</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mouth</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Science Advances (Journal)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Plastics</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paig-Tran, Misty</category>
+        </item>
+        <item>
+            <title>The Confidence Gap for Girls: 5 Tips for Parents of Tween and Teen Girls</title>
+            <link>https://www.nytimes.com/2018/10/01/well/family/confidence-gap-teen-girls-tips-parents.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/10/01/well/family/confidence-gap-teen-girls-tips-parents.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/10/01/well/family/confidence-gap-teen-girls-tips-parents.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/09/24/well/00confidence/00confidence-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Stephanie DeAngelis</media:credit>
+            <description>Between the ages of 8 and 14, girls&#x2019; confidence levels fall by 30 percent. Fighting it requires taking some risks.</description>
+            <dc:creator>CLAIRE SHIPMAN, KATTY KAY and JILLELLYN RILEY</dc:creator>
+            <pubDate>Mon, 01 Oct 2018 09:00:01 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Parenting</category>
+        </item>
+    </channel>
+</rss>
